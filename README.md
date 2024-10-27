@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Pedro Leite de Menezes and I'm a ... , from ....</h2>
+<h2 align="left">Hi 👋! My name is Pedro Leite de Menezes and I'm a Systems Analyst and Developer, from Rio de Janeiro.</h2>
+
 
 ###
 
