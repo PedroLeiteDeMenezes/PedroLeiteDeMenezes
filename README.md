@@ -39,6 +39,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/PedroLeiteDeMenezes/PedroLeiteDeMenezes/main/snake.yml" alt="Snake animation" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PedroLeiteDeMenezes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
+
 
 ###
